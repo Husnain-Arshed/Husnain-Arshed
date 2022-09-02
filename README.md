@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Husnain-Arshed/Husnain-Arshed)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://github.com/Husnain-Arshed)
 <h1 align="center">Hi 👋, I'm Husnain Arshed</h1>
 <h3 align="center">A passionate web developer from Italy-Pakistan</h3>
 
