@@ -1,4 +1,4 @@
-[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif)]
 <h1 align="center">Hi 👋, I'm Husnain Arshed</h1>
 <h3 align="center">A passionate web developer from Italy-Pakistan</h3>
 
